@@ -1,4 +1,6 @@
 ![Lung Cancer Image](LungCancerImage.avif)
+
+
 CT Scan Image Classification for Malignancy Detection
 Project Overview
 This project aims to develop a machine learning model for classifying CT scan images based on malignancy scores. The dataset includes images from 2,300 patients, with each patient providing two types of CT scan slices: a full slice and a zoomed slice focusing on the largest nodule. These images are labeled with malignancy scores ranging from 1 to 5, which are used as the target labels for classification.
